@@ -147,7 +147,3 @@ This section demonstrated the ability to discover hidden structures without pred
 ## 🎯 Conclusion
 
 This assignment provided a complete data science workflow experience — from raw data to predictive modeling and clustering analysis. By integrating data cleaning, visualization, supervised learning, and unsupervised learning techniques, the project demonstrates a structured and analytical approach to solving real-world data problems.
-
----
-
-> A comprehensive demonstration of practical data science and machine learning techniques.
