@@ -99,23 +99,20 @@ The model with the best generalization performance and stability across folds wa
 
 ## 🔍 4. Unsupervised Learning
 
-In the unsupervised learning section, a separate dataset (or modified version) was analyzed without labeled outputs.
+In the unsupervised learning section, a separate dataset was analyzed without labeled outputs.
 
 ### Process
 1. Performed data wrangling and normalization
 2. Conducted exploratory analysis
 3. Identified structural patterns
-4. Applied clustering algorithms
+4. Applied clustering algorithm
 
 ### Clustering Techniques
 - K-Means Clustering
-- (Optional: Hierarchical Clustering / DBSCAN if implemented)
 
 ### Observations
 - Identified natural groupings in the dataset
-- Determined optimal number of clusters using:
-  - Elbow method
-  - Silhouette score
+- Determined optimal number of clusters
 - Interpreted cluster characteristics to describe general data properties
 
 This section demonstrated the ability to discover hidden structures without predefined labels.
@@ -127,7 +124,7 @@ This section demonstrated the ability to discover hidden structures without pred
 - Python
 - Pandas (data manipulation)
 - NumPy
-- Matplotlib / Seaborn (visualization)
+- Matplotlib (visualization)
 - Scikit-learn (machine learning & tuning)
 - Jupyter Notebook
 
